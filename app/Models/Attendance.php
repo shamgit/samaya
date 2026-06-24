@@ -23,6 +23,7 @@ class Attendance extends Model
         'created_by',
         'updated_by',
         'deleted',
+        'test',
 
     ];
 
